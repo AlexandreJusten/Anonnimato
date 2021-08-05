@@ -313,6 +313,11 @@ html {
     letter-spacing: 0.5px;
 }
 
+.insertTiagoimg {
+    width: 50%;
+    overflow: hidden;
+}
+
 
 /* Buttons */
 
