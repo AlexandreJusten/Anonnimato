@@ -231,7 +231,7 @@ html {
     top: calc(0px);
     width: 20%;
     will-change: transform;
-    z-index: 9999 !important;
+    z-index: 9998 !important;
 }
 
 .menu-toggle {
@@ -272,6 +272,11 @@ html {
     text-align: center;
     display: inline-block;
     line-height: 60px;
+}
+
+.zindexmodalp {
+    background-color: rgba(0, 0, 0, 0.904);
+    z-index: 9999 !important;
 }
 
 

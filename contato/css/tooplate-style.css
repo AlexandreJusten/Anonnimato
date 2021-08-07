@@ -112,6 +112,36 @@ p {
     position: relative;
 }
 
+.tm-nav-link22 {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 165px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid white;
+    cursor: pointer;
+    position: relative;
+    left: 240px;
+}
+
+.tm-nav-link223 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 165px;
+    height: 40px;
+    text-align: center;
+    cursor: pointer;
+    position: relative;
+}
+
+.tm-nav-link22:hover {
+    background-color: #252525cc;
+    color: rgb(255, 255, 255);
+}
+
 .tm-nav-text {
     position: absolute;
     left: 0;
@@ -378,6 +408,11 @@ a:focus {
 
 p:last-child {
     margin-bottom: 0;
+}
+
+.teste22 {
+    width: 160px;
+    height: 160px;
 }
 
 @media (min-width: 900px) {
