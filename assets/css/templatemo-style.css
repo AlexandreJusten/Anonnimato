@@ -217,7 +217,8 @@ html {
     left: 0%;
     -webkit-transition: -webkit-transform 233ms cubic-bezier(0, 0, 0.21, 1);
     -webkit-overflow-scrolling: touch;
-    background: linear-gradient(rgb(0, 0, 0), rgba(2, 77, 107, 0.219));
+    /* background: linear-gradient(rgb(0, 0, 0), rgba(2, 77, 107, 0.219));*/
+    background: linear-gradient(rgb(0, 0, 0), rgb(0, 40, 54));
     box-sizing: border-box;
     height: 100vh;
     max-height: 100vh !important;
@@ -277,6 +278,10 @@ html {
 .zindexmodalp {
     background-color: rgba(0, 0, 0, 0.904);
     z-index: 9999 !important;
+}
+
+.bgmycolor {
+    background-color: rgb(0, 35, 44);
 }
 
 
