@@ -275,6 +275,10 @@ html {
     line-height: 60px;
 }
 
+.bg-dark222 {
+    background: linear-gradient(rgb(0, 32, 41), rgb(0, 40, 54));
+}
+
 .zindexmodalp {
     background-color: rgba(0, 0, 0, 0.904);
     z-index: 9999 !important;
